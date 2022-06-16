@@ -4,9 +4,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Snake Game</title>
 </head>
 <body>
     
+    <button id="replay">
+      <i class="fas fa-play"></i>
+      RESTART
+    </button>
+    <canvas id="stage" width="400" height="400"></canvas>
+    <div id="ui">
+        <h2>SCORE
+        </h2>
+        <span id="score">00</span>
+
+        <h2>MAXSCORE
+        </h2>
+        <span id="maxScore">00</span>
+    </div>
+
+    <div class="gameOver">
+        <h3>GAME OVER</h3>
+        <p>Pressione uma tecla</p>
+    </div>
+    
+    <script src="script.js"></script>
 </body>
 </html>

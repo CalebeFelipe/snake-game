@@ -32,11 +32,11 @@
 
 ## ⚙️ Funcionalidades
 
-- [ ] Criação do palco do game
-- [ ] Personalização da cobrinha
-- [ ] Condições de crescimento
-- [ ] Game Over
-
+- [x] Criação do palco do game
+- [x] Personalização da cobrinha
+- [x] Condições de crescimento
+- [x] Game Over
+- [x] Marcador de pontuação
 
 
 ---
