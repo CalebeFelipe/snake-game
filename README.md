@@ -1,15 +1,15 @@
 
 
 <h1 align="center">
-     <a href="#" alt="site de cadastro de usuario"> Snake Game </a>
+     <a href="#" alt="jogo da cobrinha"> Snake Game </a>
 </h1>
 
 <h3 align="center">
-    🐍 O remake de um clássico 🐍
+    🐍 Um remake de um clássico 🐍
 </h3>
 
 <h4 align="center">
-	🚧 Em construção 🚀 🚧
+	🚧 Concluído 🚀 🚧
 </h4>
 
 
@@ -19,14 +19,16 @@
   <a href="#-como-executar-o-projeto">Como executar o projeto</a>&nbsp; •
   <a href="#-tecnologias">Tecnologias</a> 
 </p>
-<!--<br />
-<img align="center" src="assets/jogando.gif" alt="animação da interação com página"> -->
+<br />
+<img align="center" src="images/play.gif" alt="animação da interação com página"> 
 
-<!--Confira a aplicação: https://jogo-tictactoe.netlify.app <br>-->
+> Confira a aplicação: snake-gameofc.netlify.app <br>
 
 ## 💻 Sobre o projeto
 
-🐍 Uma aplicação simples que simula o famoso "jogo da cobrinha".
+🐍 Uma aplicação simples que simula o famoso "jogo da cobrinha". Foi um grande desafio desenvolver esse projeto, aprendi bastante sobre a tag <strong>Canvas</strong> e todas as possibilidades que podemos acessar através do JavaScript. 
+
+  Alguns dos métodos Canvas utilizados foram: .fillStyle(), shadowColor(), shadowBlur(), fillRect(), além de outras funcionalidades.
 
 ---
 
@@ -38,6 +40,11 @@
 - [x] Game Over
 - [x] Marcador de pontuação
 
+> Funcionalidades futuras
+
+- [ ] Cores dinâmicas para a comida
+- [ ] Animação de partículas ao comer 
+- [ ] Níveis de dificuldade
 
 ---
 
